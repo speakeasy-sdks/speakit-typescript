@@ -26,6 +26,13 @@ src/sdk/models/operations/index.ts
 src/sdk/models/shared/error.ts
 src/sdk/models/shared/pet.ts
 src/sdk/models/shared/index.ts
-docs/petstore/README.md
-docs/pets/README.md
+docs/sdks/petstore/README.md
+docs/sdks/pets/README.md
 USAGE.md
+docs/models/operations/createpetsresponse.md
+docs/models/operations/listpetsrequest.md
+docs/models/operations/listpetsresponse.md
+docs/models/operations/showpetbyidrequest.md
+docs/models/operations/showpetbyidresponse.md
+docs/models/shared/errort.md
+docs/models/shared/pet.md

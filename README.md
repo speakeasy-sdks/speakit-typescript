@@ -36,11 +36,11 @@ sdk.pets.createPets().then((res: CreatePetsResponse) => {
 ## Available Resources and Operations
 
 
-### [pets](docs/pets/README.md)
+### [pets](docs/sdks/pets/README.md)
 
-* [createPets](docs/pets/README.md#createpets) - Create a pet
-* [listPets](docs/pets/README.md#listpets) - List all pets
-* [showPetById](docs/pets/README.md#showpetbyid) - Info for a specific pet
+* [createPets](docs/sdks/pets/README.md#createpets) - Create a pet
+* [listPets](docs/sdks/pets/README.md#listpets) - List all pets
+* [showPetById](docs/sdks/pets/README.md#showpetbyid) - Info for a specific pet
 <!-- End SDK Available Operations -->
 
 ### Maturity
